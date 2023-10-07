@@ -1,0 +1,27 @@
+{
+  "version": "0.3.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "dog",
+      "text": "",
+      "points": [
+        [
+          30.166666666666657,
+          53.86507936507937
+        ],
+        [
+          311.91269841269843,
+          477.6746031746032
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "dog.1.jpg",
+  "imageData": null,
+  "imageHeight": 499,
+  "imageWidth": 327
+}
