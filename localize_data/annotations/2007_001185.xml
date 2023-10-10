@@ -1,0 +1,22 @@
+<annotation>
+	<folder>image</folder>
+	<filename>2007_001185.jpg</filename>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>1</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Frontal</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>197</xmin>
+			<ymin>199</ymin>
+			<xmax>289</xmax>
+			<ymax>323</ymax>
+		</bndbox>
+	</object>
+	</annotation>

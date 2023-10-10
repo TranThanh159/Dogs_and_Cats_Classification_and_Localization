@@ -1,0 +1,22 @@
+<annotation>
+	<folder>image</folder>
+	<filename>2007_009899.jpg</filename>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>1</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Frontal</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>140</xmin>
+			<ymin>2</ymin>
+			<xmax>466</xmax>
+			<ymax>375</ymax>
+		</bndbox>
+	</object>
+</annotation>

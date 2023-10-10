@@ -1,0 +1,23 @@
+<annotation>
+	<filename>2009_001885.jpg</filename>
+	<folder>image</folder>
+	<segmented>1</segmented>
+	<size>
+		<depth>3</depth>
+		<height>333</height>
+		<width>500</width>
+	</size>
+	<object>
+		<name>dog</name>
+		<bndbox>
+			<xmax>500</xmax>
+			<xmin>247</xmin>
+			<ymax>333</ymax>
+			<ymin>26</ymin>
+		</bndbox>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<pose>Left</pose>
+		<truncated>1</truncated>
+	</object>
+	</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+	<folder>image</folder>
+	<filename>2008_002574.jpg</filename>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Left</pose>
+		<truncated>0</truncated>
+		<occluded>1</occluded>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>161</ymin>
+			<xmax>359</xmax>
+			<ymax>343</ymax>
+		</bndbox>
+		<difficult>0</difficult>
+	</object>
+</annotation>
